@@ -20,7 +20,7 @@ Loaders
   bottom: 0;
   z-index: 9999;
   overflow: hidden;
-  background: pink
+  background:#7FFFD4;
 }
 
 #preloader:before {
@@ -28,7 +28,7 @@ Loaders
   position: fixed;
   top: calc(50% - 30px);
   left: calc(50% - 30px);
-  border: 6px solid pink;
+  border: 6px solid #7FFFD4;
   border-top-color: #fff;
   border-bottom-color: #fff;
   border-radius: 50%;
@@ -124,7 +124,7 @@ Back to top button
 Header
 */
 #header {
-  background:pink;
+  background:#7FFFD4;
   transition: all 0.5s;
   z-index: 997;
   padding: 20px 0;
